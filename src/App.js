@@ -1,8 +1,8 @@
 import './App.css';
-import AdvantageSection from './components/AdvantageSection';
-import Details from './components/Details';
-import HeaderSection from './components/HeaderSection';
-import PremiumSection from './components/PremiumSection';
+import AdvantageSection from './AdvantageSection';
+import Details from './Details';
+import HeaderSection from './HeaderSection';
+import PremiumSection from './PremiumSection';
 
 function App() {
   return (
